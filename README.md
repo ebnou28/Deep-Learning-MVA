@@ -1,5 +1,5 @@
 # Deep-Learning-MVA
-Deep learning course assignmets MVA Msc
+Deep learning course assignment MVA Msc
 
 
 Instructions : 
